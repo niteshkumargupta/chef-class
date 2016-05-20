@@ -1,5 +1,7 @@
 <html>
   <body>
-    <h1>hello world from template</h1>
+    <h1>Welcome to <%= node["motd"]["company"] %></h1>
+    <h2> We Love <%= @site_name %></h2>
+    <%= node["hostname"] %>:<%= @port %>
   </body>
 </html>
