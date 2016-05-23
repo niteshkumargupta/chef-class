@@ -1,0 +1,8 @@
+{ 
+"id":"ngupta",
+ "uid":"10011", 
+ "gid":"0",
+ "shell":"/bin/bash",
+ "home_dir":"/home/ngupta",
+ "comment":"Nitesh Gupta"
+ }
